@@ -1,0 +1,29 @@
+h1, p {
+    font-family: Lato;
+  }
+  
+  .unread {
+    font-weight: bold;
+  }
+  
+  .email {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  li {
+    list-style: none;
+    padding: 10px 7px;
+    border-top: 1px solid grey;
+  }
+  
+  li:first-child {
+    border-top: 0;
+  }
+  
+  .abc {
+    background-color: whitesmoke;
+    padding: 0px;
+    border-radius: 10px; 
+    border: 1px solid grey;
+  }
