@@ -20,7 +20,7 @@
     "@syncfusion/ej2-calendars": "^18.1.44",
     "@syncfusion/ej2-dropdowns": "^18.1.44",
     "@syncfusion/ej2-react-schedule": "^18.1.44",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "browserslist": "^4.11.1",
     "caniuse-lite": "^1.0.30001040",
